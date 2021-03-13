@@ -2,4 +2,4 @@
 
 my first repository on GitHub
 
-I love ice cream 🍨
+I love ice cream 🍨 
